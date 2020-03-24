@@ -1,3 +1,4 @@
+38400 baud
 
 SoftRF-ESP32 FW.REV: 1.0-rc7 DEV.ID: 28b203e0
 
