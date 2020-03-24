@@ -1,0 +1,47 @@
+
+SoftRF-ESP32 FW.REV: 1.0-rc7 DEV.ID: 28b203e0
+
+Reset reason: 0
+POWERON_RESET
+Free heap size: 208192
+Vbat power on reset
+
+Warning! EEPROM magic mismatch! Loading defaults...
+SX1276 RFIC is detected.
+WARNING! Barometric pressure sensor is NOT detected.
+INFO: TTGO T-Beam GPS module (rev. 08) is detected.
+Flash memory ID: EF4016
+INFO: GNSS module HW version: 00040007
+INFO: GNSS module FW version: 7.03 (45969)
+Hostname: SoftRF-b203e0
+Wait for WiFi connection.
+....................
+Can not connect to WiFi station. Go into AP mode.
+Setting soft-AP configuration ... Ready
+Setting soft-AP ... Ready
+IP address: 192.168.1.1
+UDP server has started at port: 12389
+HTTP server has started at port: 80
+$GPRMC,195234.00,V,,,,,,,230320,,,N*75
+$GPGGA,195234.00,0000.0000,N,00000.0000,E,0,00,100.0,0.0,M,0.0,M,,*54
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$GPRMC,195235.00,V,,,,,,,230320,,,N*74
+$GPGGA,195235.00,0000.0000,N,00000.0000,E,0,00,100.0,0.0,M,0.0,M,,*55
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$PFLAU,0,0,0,1,0,,0,,,*4F
+$GPRMC,195246.00,V,,,,,,,230320,,,N*70
+$GPGGA,195246.00,0000.0000,N,00000.0000,E,0,00,100.0,0.0,M,0.0,M,,*51
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$PFLAU,0,0,0,1,0,,0,,,*4F
+$GPRMC,195247.00,V,,,,,,,230320,,,N*71
+$GPGGA,195247.00,0000.0000,N,00000.0000,E,0,00,100.0,0.0,M,0.0,M,,*50
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$PFLAU,0,0,0,1,0,,0,,,*4F
+$GPRMC,195248.00,V,,,,,,,230320,,,N*7E
+$GPGGA,195248.00,0000.0000,N,00000.0000,E,0,00,100.0,0.0,M,0.0,M,,*5F
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$PFLAU,0,0,0,1,0,,0,,,*4F
+$GPRMC,195249.00,V,,,,,,,230320,,,N*7F
+$GPGGA,195249.00,0000.0000,N,00000.0000,E,0,00,100.0,0.0,M,0.0,M,,*5E
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+$PFLAU,0,0,0,1,0,,0,,,*4F
